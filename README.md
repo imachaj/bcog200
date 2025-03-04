@@ -1,4 +1,5 @@
 # bcog200
+
 1. There was an early game in the 2000s that was called create your pocket emo. It would give you an avatar and you can customize it however you like by giving it new clothes, accessories, and objects. Then the avatar would save. In this project we will strive to recreate this game, except with an emo girl.
 
 **Functions**
