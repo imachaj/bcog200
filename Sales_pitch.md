@@ -1,0 +1,1 @@
+Remember Pocket Emo? The Flash Game where you create your own emo boy, dress him up, and take care of him? Well! Now it's back, and better then ever. This time though, now you can make your own emo girl. You can dress her up in all your favorite emo clothes, give her your favorite emo hairstyles, and interact with her! 
