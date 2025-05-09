@@ -26,7 +26,7 @@ Functions 2 a, Load in the avatar b, Customize the avatar c. Save the avatar 3. 
 
 
 ### Hair class 
-#### tmirkov
+
 
 #### change_hair_color(color: str) 
 
