@@ -7,18 +7,18 @@ Remember Pocket Emo? The Flash Game where you create your own emo boy, dress him
 ## Test method description
 
 ### Button Interactions
- -We tested all four buttons (Change Hair, Change Top, Change Bottom, Change Accessory) to make sure they cycle through the correct options and update the canvas.
- -Verified that the old item disappears when a new one is added (e.g., old hair is removed before the new one is placed).
+ -We tested all four buttons (Change Hair, Change Top, Change Bottom, Change Accessory) to make sure they cycle through the correct options and update the canvas.<br>
+ -Verified that the old item disappears when a new one is added (e.g., old hair is removed before the new one is placed).<br>
 
 ### Image Placement
- -We tested different outfits to confirm that each clothing item aligns correctly over the base image.
- -Made sure images load at the right coordinates and the layering order looks visually correct.
+ -We tested different outfits to confirm that each clothing item aligns correctly over the base image.<br>
+ -Made sure images load at the right coordinates and the layering order looks visually correct.<br>
 
 ### Music Playback
  -Verified that background music begins when the program launches and loops continuously using Pygame.
 
 ### Screenshot Saving
- -We tested the screenshot functionality by entering a filename in the prompt and confirming the saved image matches the girl’s appearance.
+ -We tested the screenshot functionality by entering a filename in the prompt and confirming the saved image matches the girl’s appearance.<br>
  -Checked that only the portion of the canvas with the girl is captured and the image is stored properly.
 
 ### Basic Functions: 
