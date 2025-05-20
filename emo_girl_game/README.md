@@ -6,6 +6,10 @@ Remember Pocket Emo? The Flash Game where you create your own emo boy, dress him
 
 ## Test method description
 
+TO PLAY THE GAME:
+
+Download all folders, including main_emo_girl.py. Load up the main_emo_girl.py file and run it in the terminal, making sure the assets folder is in the same main root folder as main_emo_girl.py. A window should pop up, allowing you to see the game. To see and interact with the buttons, you have to full screen the canvas. To save your avatar, press the save button. 
+
 ### Button Interactions
  -We tested all four buttons (Change Hair, Change Top, Change Bottom, Change Accessory) to make sure they cycle through the correct options and update the canvas.<br>
  -Verified that the old item disappears when a new one is added (e.g., old hair is removed before the new one is placed).<br>
