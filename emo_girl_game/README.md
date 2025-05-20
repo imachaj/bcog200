@@ -4,11 +4,46 @@
 
 Remember Pocket Emo? The Flash Game where you create your own emo boy, dress him up, and take care of him? Well! Now it's back, and better than ever. This time though, now you can make your own emo girl. You can dress her up in all your favorite emo clothes, give her your favorite emo hairstyles, and interact with her!
 
-## Test method description
+## Getting the game to run
 
 TO PLAY THE GAME:
 
 Download all folders, including main_emo_girl.py. Load up the main_emo_girl.py file and run it in the terminal, making sure the assets folder is in the same main root folder as main_emo_girl.py. A window should pop up, allowing you to see the game. To see and interact with the buttons, you have to full screen the canvas. To save your avatar, press the save button. 
+
+For this project, you'll need to use three Python libraries: Pillow, Pygame, and Tkinter. Here is how to install them and their 
+roles in the project.
+
+Pillow(PIL)-
+
+Pillow is a Python Imaging Library used to handle image processing tasks like opening, resizing, and converting image formats.
+In this project, it's used to load and resize clothing and character assets before displaying them in the interface.
+
+To install Pillow, run this in your terminal:
+pip install Pillow
+
+Pygame-
+
+Pygame is a Python library used for game development. In this project, it's used to load and play background music.
+
+To install Pygame, run this in your terminal:
+pip install Pygame
+
+Tkinter-
+
+Tkinter is Python’s standard GUI library, used to build graphical user interfaces. It’s used in this project to create buttons, 
+a canvas for character images, and manage layout.
+
+Tkinter usually comes pre-installed with Python, so you typically don't need to install it manually.
+
+import tkinter as tk
+from tkinter import PhotoImage
+from PIL import Image, ImageTk
+import pygame
+from tkinter import filedialog
+from PIL import ImageGrab
+
+
+## Test method description
 
 ### Button Interactions
  -We tested all four buttons (Change Hair, Change Top, Change Bottom, Change Accessory) to make sure they cycle through the correct options and update the canvas.<br>
